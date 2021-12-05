@@ -1,0 +1,109 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Oswald', sans-serif;
+	background-color: #fff;
+}
+
+.navbar-brand img{
+	height: 50px;
+	width: auto;
+}
+.navbar-nav li{
+	padding-right: 40px;
+}
+.nav-link{
+	font-size: 1.3em !important;
+}
+
+.LScontent{
+	padding: 5px;
+	background: lightgreen;
+	border-radius: 8px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.LScontent button{
+	
+	border-radius: 5px;
+	color: black;
+}
+
+.padding{
+	padding: 10px;
+}
+
+textarea{
+	width: 100%;
+	height: 200px;
+    border-radius: 3px;
+    border-style: none;
+}
+
+.buttons{
+	margin-bottom: 5px;
+}
+
+h3{
+	color: #fff;
+}
+
+.con{
+	margin: auto;
+	margin-top: 5px;
+}
+
+.buttons button{
+	background: lightgreen;
+	border-radius: 5px;
+	color: #fff;
+	margin-bottom: 2px;
+}
+
+.but{
+	padding: 5px;
+}
+
+.display{
+	margin-top: 5%;
+	margin: auto;
+	border: 1px solid black;
+	border-radius: 6px;
+}
+
+.content{
+	margin-top: 1px;
+}
+
+.all{
+	margin: auto;
+}
+
+.down{
+	margin: auto;
+}
+
+.editmodal{
+	width: 100%;
+	height: 200px;
+}
+
+label{
+	color: #fff;
+}
+
+hr{
+	border-color: #fff;
+}
+
+th {
+  background-color: #509462;
+  color: white;
+}
+
+tr:nth-child(even) {background-color: #e6ede8;}
+
+tr{
+	font-size: 18px;
+}

@@ -1,0 +1,50 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Oswald', sans-serif;
+	background-color: #fff;
+}
+
+.navbar-brand img{
+	height: 50px;
+	width: auto;
+}
+.navbar-nav li{
+	padding-right: 40px;
+}
+.nav-link{
+	font-size: 1.3em !important;
+}
+
+.padding{
+	padding: 5px;
+}
+
+.usernamecon{
+	margin: auto;
+	background: #fff;
+	border-radius: 7px;
+	border:  1px solid #bfbfbf;
+	padding: 8px;
+}
+
+.profile-head{
+	margin: auto;
+	color: #404040;
+	padding-top: 15px;
+
+}
+
+.procontent a{
+	margin-top: 5px;
+ 	font-size: 15px;
+ 	color: #fff;
+}
+
+label{
+	color: #4f4f4f;
+}
+
+.row{
+	margin: auto;
+}

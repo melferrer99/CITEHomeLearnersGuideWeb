@@ -1,0 +1,36 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Oswald', sans-serif;
+	background-color: #50a172;
+}
+
+.navbar-brand img{
+	height: 50px;
+	width: auto;
+}
+.navbar-nav li{
+	padding-right: 40px;
+}
+.nav-link{
+	font-size: 1.3em !important;
+}
+
+.body{
+	width: 100%;
+	height: 100%;
+	background-color: red;
+}
+
+.sidebar, .rightside{
+	height: 100vh;
+	width: 100%;
+}
+
+.sidebar{
+	background: red; 
+}
+
+.rightside{
+	background: blue;
+}

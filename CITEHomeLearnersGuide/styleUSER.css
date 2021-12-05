@@ -1,0 +1,95 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Oswald', sans-serif;
+	background-color: #fff;
+}
+
+.navbar-brand img{
+	height: 50px;
+	width: auto;
+}
+.navbar-nav li{
+	padding-right: 40px;
+}
+.nav-link{
+	font-size: 1.3em !important;
+}
+
+.padding{
+	padding: 8px;
+}
+.paddingsm{
+	padding: 3px;
+}
+
+.addbutton{
+	padding-top: 25px;
+}
+
+.addlogo{
+	font-size: 3x;
+}
+
+.adduser-content{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.user-content{
+	border: 1px solid black;
+	border-radius: 6px;
+	background: #fff;
+}
+
+.userlist{
+	margin:auto;
+
+}
+
+.admincontainer{
+	background: lightgreen;
+	border: 2px solid white;
+	border-radius: 8px;
+}
+
+.teachercontainer{
+	background: #d3ffc9;
+	border: 2px solid white;
+	border-radius: 8px
+	
+}
+
+.studentcontainer{
+	background: lightgreen;
+	border: 2px solid white;
+	border-radius: 8px
+}
+
+.editbutton{
+	font-size: 20px;
+	color: #fff;
+	
+}
+
+.deletebutton{
+	font-size: 20px;
+	color: #fff;
+		
+}
+
+h3{
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
+th {
+  background-color: #509462;
+  color: white;
+}
+
+tr:nth-child(even) {background-color: #e6ede8;}
+
+tr{
+	font-size: 18px;
+}

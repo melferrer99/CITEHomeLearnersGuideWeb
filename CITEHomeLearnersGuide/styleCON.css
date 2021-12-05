@@ -1,0 +1,153 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Oswald', sans-serif;
+	background-color: #fff;
+}
+
+.container{
+	background-color: #f2f2f2;
+	padding: 40px;
+	border-radius: 10px;
+}
+
+.navbar-brand img{
+	height: 50px;
+	width: auto;
+}
+.navbar-nav li{
+	padding-right: 40px;
+}
+.nav-link{
+	font-size: 1.3em !important;
+}
+
+.sidebar, .rightside{
+	height: 50%;
+	width: 100%;
+}
+
+@media screen and (min-width: 768px){
+	.sidebar, .rightside{
+		height: 100%;
+	}
+}
+
+.padding{
+	padding: 10px;
+}
+
+.year-form{
+	background: #fff;
+	padding: 2px;
+	border-radius: 5px;
+	border: 1px solid #5c5c5c;
+
+}
+
+.section button{
+	background: lightgreen;
+	border-radius: 5px;
+	padding: 8px;
+	color: #fff;
+	width: 100%;
+	border-style: none;
+	box-shadow: 2px 2px green;
+	margin-bottom: 6px;
+}
+
+.sectionfb button{
+	background: #859ec7;
+	border-radius: 5px;
+	padding: 8px;
+	color: #fff;
+	width: 100%;
+	border-style: none;
+	box-shadow: 2px 2px blue;
+	margin-bottom: 6px;
+}
+
+select{
+	width: 100%;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 5px;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+}
+
+.rightside-content{
+	padding-left: 15px;
+
+}
+
+.add{
+	padding-top: 35px;
+}
+
+.rightside .jumbotron{
+	padding: 0;
+}
+
+.sidebar{
+	margin:0 5px;
+}
+
+.sub-content{
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+.btn{
+	margin: 1px;
+}
+
+.sec button{
+	background: lightgreen;
+	border-radius: 5px;
+	padding: 2px;
+	color: #fff;
+	width: 100%;
+	border-style: none;
+	box-shadow: 2px 2px green;
+	margin-bottom: 3px;
+}
+.sec{	
+	border: 1px solid #fff;
+	border-radius: 4px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	background: #c2ebae;
+	margin: auto;
+}
+
+.secfb button{
+	background: #6bacbf;
+	border-radius: 5px;
+	padding: 2px;
+	color: #fff;
+	width: 100%;
+	border-style: none;
+	box-shadow: 2px 2px green;
+	margin-bottom: 3px;
+}
+.secfb{
+	border: 1px solid #fff;
+	border-radius: 4px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	background:  lightblue;
+	margin: auto;
+}
+
+
+th {
+  background-color: #509462;
+  color: white;
+}
+
+tr:nth-child(even) {background-color: #e6ede8;}
+
+tr{
+	font-size: 18px;
+}
